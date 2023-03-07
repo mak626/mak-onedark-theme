@@ -32,11 +32,4 @@
         "terminal.inactiveSelectionBackground": "#E5EBF1",
         "widget.border": "#d4d4d4"
     },
-    "semanticHighlighting": true,
-    "semanticTokenColors": {
-        "newOperator": "#0000ff",
-        "stringLiteral": "#a31515",
-        "customLiteral": "#000000",
-        "numberLiteral": "#098658"
-    }
 }

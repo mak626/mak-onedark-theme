@@ -1950,5 +1950,6 @@
         "foreground": "#383A42"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true
 }
