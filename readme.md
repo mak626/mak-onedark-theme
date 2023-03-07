@@ -1,10 +1,10 @@
 # MAK One Dark Theme
 
-Custom One Dark theme build using token colors of one dark theme and editor colors of vs code default themes.
+Custom One Dark theme build using token colors of [one dark theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) and editor colors of [vs-code default themes](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults).
 
 ## Installation
 
-- Get the [latest release](https://github.com/mak626/mak-onedark-theme/releases).
+- Get the [latest .vsix release](https://github.com/mak626/mak-onedark-theme/releases).
 - Open extensions tab in vs code
 - Under settings `Install from VSIX`
 
