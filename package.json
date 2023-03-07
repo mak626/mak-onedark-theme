@@ -1,8 +1,7 @@
 {
-  "name": "mak-onedark-theme",
+  "name": "onedark-theme",
   "displayName": "MAK's One Dark Theme",
   "description": "Adds One Dark Light & Dark Theme",
-  "preview": true,
   "icon": "logo.png",
   "categories": [
     "Themes"
