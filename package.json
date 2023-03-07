@@ -1,13 +1,14 @@
 {
-  "name": "onedark-theme",
-  "displayName": "MAK's One Dark Theme",
-  "description": "Adds One Dark Light & Dark Theme",
+  "name": "one-dark-vscode-theme",
+  "displayName": "One Dark VS Code Theme",
+  "description": "Merges One Dark Theme token colors with VS Code editor colors",
   "icon": "logo.png",
   "categories": [
     "Themes"
   ],
-  "version": "1.0.1",
-  "publisher": "MAK",
+  "version": "1.0.2",
+  "publisher": "mak626",
+  "license": "MIT",
   "engines": {
     "vscode": "*"
   },
@@ -42,5 +43,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mak626/mak-onedark-theme.git"
+  },
+  "scripts": {
+    "build": "vsce package -o dist/"
   }
 }
