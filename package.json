@@ -1,0 +1,47 @@
+{
+  "name": "mak-onedark-theme",
+  "displayName": "MAK's One Dark Theme",
+  "description": "Adds One Dark Light & Dark Theme",
+  "preview": true,
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "version": "1.0.0",
+  "publisher": "MAK",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "mak-one-light-pro",
+        "label": "MAK's One Light Pro",
+        "uiTheme": "vs",
+        "path": "./themes/one_light_pro.json"
+      },
+      {
+        "id": "mak-one-light-pro-2",
+        "label": "MAK's One Light Pro V2",
+        "uiTheme": "vs",
+        "path": "./themes/one_light_pro_v2.json"
+      },
+      {
+        "id": "mak-one-dark-pro",
+        "label": "MAK's One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one_dark_pro.json"
+      },
+      {
+        "id": "mak-one-dark-pro-2",
+        "label": "MAK's One Dark Pro V2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one_dark_pro_v2.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mak626/mak-onedark-theme.git"
+  }
+}
