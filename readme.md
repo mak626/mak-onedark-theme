@@ -20,15 +20,9 @@ Custom One Dark theme build using token colors of [one dark theme](https://marke
 
 ![MAK's One Light Pro V2](/images/one-light-pro-v2.png)
 
-## Manual Installation
+## Installation
 
-- Get the [latest .vsix release](https://github.com/mak626/mak-onedark-theme/releases).
-- Open extensions tab in vs code
-- Under settings `Install from VSIX`
-
-## Setting
-
-- Open the extension in extensions tab
+- Get the [extension](https://marketplace.visualstudio.com/items?itemName=mak626.one-dark-vscode-theme).
 - Set Color Theme
 - Select any of themes available
   - MAK's One Dark Pro

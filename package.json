@@ -6,7 +6,7 @@
   "categories": [
     "Themes"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "mak626",
   "license": "MIT",
   "engines": {
@@ -45,6 +45,7 @@
     "url": "https://github.com/mak626/mak-onedark-theme.git"
   },
   "scripts": {
-    "build": "vsce package -o dist/"
+    "build": "vsce package -o dist/",
+    "publish": "vsce publish"
   }
 }
