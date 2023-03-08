@@ -6,7 +6,7 @@
   "categories": [
     "Themes"
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "mak626",
   "license": "MIT",
   "engines": {
@@ -37,6 +37,12 @@
         "label": "MAK's One Dark Pro V2",
         "uiTheme": "vs-dark",
         "path": "./themes/one_dark_pro_v2.json"
+      },
+      {
+        "id": "mak-one-dark-pro-3",
+        "label": "MAK's One Dark Pro V3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one_dark_pro_V3.json"
       }
     ]
   },
